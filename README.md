@@ -1,3 +1,3 @@
 olá me chamo victor 
-tenho 18y
-e estou cursando sistemas de informação
+tenho 18y anos,
+estou cursando sistemas de informação
