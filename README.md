@@ -1,3 +1,4 @@
-olá me chamo victor 
-tenho 18y anos,
-estou cursando sistemas de informação
+olá me chamo victor, sou de Brusque(SC)
+tenho 18y anos e
+estou cursando sistemas de informação,
+
